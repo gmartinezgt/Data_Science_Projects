@@ -4,7 +4,7 @@
 * Optimized Linear, Elastic Net, and Random Forest Regressors to find the best model.
 
 ## Code and Resources Used
-**Python Version:** 3.9
+**Python Version:** 3.9 <br>
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn
 
 ## Results
