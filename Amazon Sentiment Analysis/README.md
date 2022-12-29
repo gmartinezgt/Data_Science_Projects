@@ -27,6 +27,6 @@ Convolutional Neural Network
 * The CNN model scored higher on all metrics and, when tested on live data, was able to more pick up on more negatively loaded terms.
 * Despite coming up short, the RFC model still performed decently across all metrics.
 * From our analysis on the toothbrush, a consumer would be able to glean the following:
- * The toothbrush has a majority positive reception from other consumers.
- * The main benefits of the toothbrush revolve around its cleaning ability, application, and gentleness/sensitivity.
- * The main issues regarding the toothbrush seem to revolve around its price, battery life, and application. 
+  * The toothbrush has a majority positive reception from other consumers.
+  * The main benefits of the toothbrush revolve around its cleaning ability, application, and gentleness/sensitivity.
+  * The main issues regarding the toothbrush seem to revolve around its price, battery life, and application. 
